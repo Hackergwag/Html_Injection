@@ -1,4 +1,4 @@
-<h1>Yaml_Xml_Json</h1>
+<h1>Html_Injection</h1>
 
 <h2>Description</h2>
 HTML injection is a security vulnerability that occurs when an application improperly validates or sanitizes user inputs, allowing attackers to inject arbitrary HTML code into web pages. This can lead to unauthorized content manipulation, phishing attacks, or the execution of malicious scripts
